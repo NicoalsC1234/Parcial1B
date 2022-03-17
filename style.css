@@ -1,0 +1,21 @@
+.titulo{
+    font-family: 'Satisfy', cursive;
+    font-size: xx-large;
+    margin-left: 42px;
+    margin-top: 43px;
+}
+
+#car{
+    max-height: 50px;
+    max-width: 200px;
+    text-align: right;
+    margin-right: 103px;
+    margin-top: 43px;
+    
+}
+
+#banner{
+    width: 100%;
+    height: 344px;
+}
+
